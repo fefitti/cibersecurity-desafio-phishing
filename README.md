@@ -18,11 +18,8 @@
 
 ### Resutados
 
-<p align="center">
-<img src="https://imgur.com/gallery/ZGC4BxB"/>
-</p>
 
-![takealook](https://imgur.com/gallery/ZGC4BxB)
+![takealook](https://github.com/fefitti/cibersecurity-desafio-phishing/blob/b0d0f35dd162d66114991716f8d2adc2cc131664/phishing.jpg)
 
 
 ![Alt text](./passwd.png "Optional title")
