@@ -19,7 +19,7 @@
 ### Resutados
 
 <p align="center">
-<img src="https://pasteboard.co/8p8yJFIRaoer.jpg"/>
+<img src="https://imgur.com/gallery/ZGC4BxB"/>
 </p>
 
 ![takealook](https://imgur.com/gallery/ZGC4BxB)
