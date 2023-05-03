@@ -18,7 +18,9 @@
 
 ### Resutados
 
-![results](https://pasteboard.co/8p8yJFIRaoer.jpg)
+<p align="center">
+<img src="https://pasteboard.co/8p8yJFIRaoer.jpg"/>
+</p>
 
 ![takealook](https://imgur.com/gallery/ZGC4BxB)
 
