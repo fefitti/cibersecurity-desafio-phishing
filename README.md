@@ -18,13 +18,9 @@
 
 ### Resutados
 
-https://pasteboard.co/8p8yJFIRaoer.jpg
+![results](https://pasteboard.co/8p8yJFIRaoer.jpg)
 
-
-https://imgur.com/gallery/ZGC4BxB
-
-
-
+![takealook](https://imgur.com/gallery/ZGC4BxB)
 
 
 ![Alt text](./passwd.png "Optional title")
